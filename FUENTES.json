@@ -1,0 +1,1564 @@
+{
+  "edition": "Chiavenato, 10.ª edición, McGraw-Hill, 2019",
+  "generated": "2026-10-07",
+  "sources": [
+    {
+      "id": "b1",
+      "title": "Chiavenato · Capítulo 1 + introducción",
+      "file": "chiavenato-1.pdf",
+      "original": "Introduccion_a_la_Teoria_General_de_la_A.pdf",
+      "pages": 18,
+      "kind": "Libro",
+      "note": "10.ª edición, McGraw-Hill, 2019. Páginas impresas 1–18, PDF original 16–33. Incluye las habilidades y los roles de la introducción (pp. 1–6). Recuperado del archivo previamente subido, mediante el chat Automatizar metodologías y resúmenes.",
+      "sha256": "b947a1a29cfa2c4f1ec55c500611f6e9a11a664b510f6123a921b2fa7e45a739",
+      "originalPdfPages": [
+        16,
+        33
+      ],
+      "printedPages": [
+        1,
+        18
+      ]
+    },
+    {
+      "id": "b8",
+      "title": "Chiavenato · Capítulo 8",
+      "file": "chiavenato-8.pdf",
+      "original": "Introduccion_a_la_Teoria_General_de_la_A.pdf",
+      "pages": 19,
+      "kind": "Libro",
+      "note": "Teoría de sistemas. Páginas impresas 233–251, PDF original 248–266. Misma copia de la 10.ª edición de 2019.",
+      "sha256": "25c2fd9e01b8d971ec6e723048bc51a4b6c58aa4df6b785c71844401c5f288db",
+      "originalPdfPages": [
+        248,
+        266
+      ],
+      "printedPages": [
+        233,
+        251
+      ]
+    },
+    {
+      "id": "c2",
+      "title": "Clase 2 · Fundamentos de la Administración",
+      "file": "clase2.pdf",
+      "original": "Clase_2_Fundamentos_de_la_Administracion_0_762443.pdf",
+      "pages": 15,
+      "kind": "Curso",
+      "note": "Profesor Pablo Castro Ubal, ayudante Fernanda Brito. Orígenes y administración científica. La clase rotula este contenido Cap. 1 Parte II; en el libro recuperado Taylor corresponde al capítulo 2. Se conserva la denominación docente y se indica la diferencia.",
+      "sha256": "f5239abad83da701809a5a186476c203afb9109d181958124864b89e1ba16e7b"
+    },
+    {
+      "id": "c3",
+      "title": "Clase 3 · Teoría General de Sistemas",
+      "file": "clase3.pdf",
+      "original": "Clase_3_Chiavenatto_capitulo_8_TGS_0_762444.pdf",
+      "pages": 13,
+      "kind": "Curso",
+      "note": "Capítulo 8, sistemas abiertos, Schein, Katz y Kahn, Tavistock. La diapositiva 2 lo ubica en Unidad IV; la guía Andina lo trabaja como Unidad I. Esta app organiza la ruta solicitada de estudio por capítulo sin resolver esa discrepancia como si fuera un dato confirmado.",
+      "sha256": "992306a1bc6c8666ad3e06311f5a2e88f3bb1edf58150d3259622bdeea87f9dc"
+    },
+    {
+      "id": "c4",
+      "title": "Clase 4 · Identificación de oportunidades",
+      "file": "clase4.pdf",
+      "original": "Clase_4_Oportunidades_Cmunoz_0_762445.pdf",
+      "pages": 7,
+      "kind": "Curso",
+      "note": "Material complementario: Cristian Muñoz. Unidad II según la diapositiva 2. No se atribuye a Chiavenato.",
+      "sha256": "f886b56a0d00f98753e7b0bdd320cce64692cad5bb0b8c20c8c1bc14f2d6232c"
+    },
+    {
+      "id": "case",
+      "title": "Caso 1 · Ecológica Verde y ElectroSur",
+      "file": "caso1.pdf",
+      "original": "Caso1_Teoría Administrativa.pdf",
+      "pages": 3,
+      "kind": "Guía",
+      "note": "Teoría Administrativa, segundo semestre 2026. Contiene 8 preguntas: 1–4 Ecológica Verde; 5–8 ElectroSur. Las respuestas de esta app son propuestas razonadas, no una pauta oficial.",
+      "sha256": "8f954a48895fb05939397e790c2547d90e586dbf7e3d2568374072fb3ad402c8"
+    },
+    {
+      "id": "a1",
+      "title": "Andina Outdoor · Enunciado",
+      "file": "andina-1.jpg",
+      "original": "WhatsApp Image 2026-10-05 at 12.42.29.jpeg",
+      "pages": 1,
+      "kind": "Guía",
+      "note": "Foto leída directamente. Camila Rivas, 90 trabajadores, 4 tiendas y exportación incipiente a Argentina. El inventario sin demanda es de carpas.",
+      "sha256": "c9fa1d01634b591076feaf50cc6200522e140116651910174d9609906d234c65"
+    },
+    {
+      "id": "a2",
+      "title": "Andina Outdoor · Preguntas",
+      "file": "andina-2.jpg",
+      "original": "WhatsApp Image 2026-10-05 at 12.42.30.jpeg",
+      "pages": 1,
+      "kind": "Guía",
+      "note": "Foto leída directamente. Secciones A, B, C y actividad de cierre. Las respuestas son propuestas de estudio fundamentadas.",
+      "sha256": "e5c2c32d0811048213121eb84211d200dbed6211a16ffa01248c3c2c87dacacf"
+    },
+    {
+      "id": "ay",
+      "title": "Ayudantía 1 · Teoría Administrativa",
+      "file": "ayudantia1.pdf",
+      "original": "Ayudantia1_Teoría.Admin_2026 (2).pdf",
+      "pages": 2,
+      "kind": "Curso",
+      "note": "Recuperada del chat Resolver administración Chiavenato. Preguntas sobre roles, competencias, habilidades, generalista/especialista, variables de la TGA y megatendencias.",
+      "sha256": "a63c112270d21e2728bd9650146c27d128ed30351c993d016518a1828b04b0da"
+    }
+  ],
+  "content": [
+    {
+      "id": "administracion",
+      "title": "Administración",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 8,
+          "label": "Chiavenato · p. 8"
+        },
+        {
+          "id": "c2",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "planear",
+      "title": "Planeación",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 8,
+          "label": "Chiavenato · p. 8"
+        },
+        {
+          "id": "case",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "organizar",
+      "title": "Organización",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 8,
+          "label": "Chiavenato · p. 8"
+        },
+        {
+          "id": "case",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "dirigir",
+      "title": "Dirección",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 8,
+          "label": "Chiavenato · p. 8"
+        },
+        {
+          "id": "case",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "controlar",
+      "title": "Control",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 8,
+          "label": "Chiavenato · p. 8"
+        },
+        {
+          "id": "case",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "tecnica",
+      "title": "Habilidad técnica",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 2,
+          "label": "Chiavenato · p. 2"
+        },
+        {
+          "id": "a1",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "humana",
+      "title": "Habilidad humana",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 2,
+          "label": "Chiavenato · p. 2"
+        },
+        {
+          "id": "b1",
+          "page": 3,
+          "label": "Chiavenato · p. 3"
+        },
+        {
+          "id": "a1",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "conceptual",
+      "title": "Habilidad conceptual",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 2,
+          "label": "Chiavenato · p. 2"
+        },
+        {
+          "id": "b1",
+          "page": 3,
+          "label": "Chiavenato · p. 3"
+        },
+        {
+          "id": "case",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "competencias",
+      "title": "Competencias duraderas",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 3,
+          "label": "Chiavenato · p. 3"
+        },
+        {
+          "id": "b1",
+          "page": 4,
+          "label": "Chiavenato · p. 4"
+        },
+        {
+          "id": "b1",
+          "page": 6,
+          "label": "Chiavenato · p. 6"
+        }
+      ]
+    },
+    {
+      "id": "roles",
+      "title": "Roles del administrador",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 6,
+          "label": "Chiavenato · p. 6"
+        },
+        {
+          "id": "ay",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "tga",
+      "title": "Variables de la TGA",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 11,
+          "label": "Chiavenato · p. 11"
+        },
+        {
+          "id": "b1",
+          "page": 12,
+          "label": "Chiavenato · p. 12"
+        },
+        {
+          "id": "ay",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "id": "eficiencia",
+      "title": "Eficiencia",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 17,
+          "label": "Chiavenato · p. 17"
+        },
+        {
+          "id": "a1",
+          "page": 1
+        },
+        {
+          "id": "a2",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "eficacia",
+      "title": "Eficacia",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 17,
+          "label": "Chiavenato · p. 17"
+        },
+        {
+          "id": "a1",
+          "page": 1
+        },
+        {
+          "id": "a2",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "cambio",
+      "title": "Agente de cambio",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 13,
+          "label": "Chiavenato · p. 13"
+        },
+        {
+          "id": "case",
+          "page": 1
+        },
+        {
+          "id": "case",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "id": "perspectivas",
+      "title": "Perspectivas y megatendencias",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 14,
+          "label": "Chiavenato · p. 14"
+        },
+        {
+          "id": "b1",
+          "page": 15,
+          "label": "Chiavenato · p. 15"
+        },
+        {
+          "id": "b1",
+          "page": 16,
+          "label": "Chiavenato · p. 16"
+        }
+      ]
+    },
+    {
+      "id": "ciencia",
+      "title": "Ciencia, tecnología y arte",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 9,
+          "label": "Chiavenato · p. 9"
+        },
+        {
+          "id": "b1",
+          "page": 10,
+          "label": "Chiavenato · p. 10"
+        }
+      ]
+    },
+    {
+      "id": "sistema",
+      "title": "Sistema e interdependencia",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 3,
+          "label": "Clase 3 · p. 3"
+        },
+        {
+          "id": "c3",
+          "page": 4,
+          "label": "Clase 3 · p. 4"
+        },
+        {
+          "id": "b8",
+          "page": 3,
+          "label": "Chiavenato · p. 235"
+        },
+        {
+          "id": "b8",
+          "page": 5,
+          "label": "Chiavenato · p. 237"
+        }
+      ]
+    },
+    {
+      "id": "abierto",
+      "title": "Sistema abierto",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 5,
+          "label": "Clase 3 · p. 5"
+        },
+        {
+          "id": "c3",
+          "page": 7,
+          "label": "Clase 3 · p. 7"
+        },
+        {
+          "id": "b8",
+          "page": 6,
+          "label": "Chiavenato · p. 238"
+        },
+        {
+          "id": "case",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "parametros",
+      "title": "Cinco parámetros",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 5,
+          "label": "Clase 3 · p. 5"
+        },
+        {
+          "id": "c3",
+          "page": 6,
+          "label": "Clase 3 · p. 6"
+        },
+        {
+          "id": "b8",
+          "page": 5,
+          "label": "Chiavenato · p. 237"
+        }
+      ]
+    },
+    {
+      "id": "feedback",
+      "title": "Retroalimentación",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 6,
+          "label": "Clase 3 · p. 6"
+        },
+        {
+          "id": "b8",
+          "page": 5,
+          "label": "Chiavenato · p. 237"
+        },
+        {
+          "id": "case",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "entropia",
+      "title": "Entropía y negentropía",
+      "refs": [
+        {
+          "id": "b8",
+          "page": 5,
+          "label": "Chiavenato · p. 237"
+        },
+        {
+          "id": "b8",
+          "page": 9,
+          "label": "Chiavenato · p. 241"
+        },
+        {
+          "id": "b8",
+          "page": 10,
+          "label": "Chiavenato · p. 242"
+        },
+        {
+          "id": "c3",
+          "page": 10,
+          "label": "Clase 3 · p. 10"
+        },
+        {
+          "id": "a2",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "homeostasis",
+      "title": "Homeostasis dinámica",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 7,
+          "label": "Clase 3 · p. 7"
+        },
+        {
+          "id": "c3",
+          "page": 10,
+          "label": "Clase 3 · p. 10"
+        },
+        {
+          "id": "b8",
+          "page": 9,
+          "label": "Chiavenato · p. 241"
+        },
+        {
+          "id": "b8",
+          "page": 10,
+          "label": "Chiavenato · p. 242"
+        },
+        {
+          "id": "case",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "morfogenesis",
+      "title": "Morfogénesis",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 8,
+          "label": "Clase 3 · p. 8"
+        },
+        {
+          "id": "b8",
+          "page": 8,
+          "label": "Chiavenato · p. 240"
+        },
+        {
+          "id": "case",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "resiliencia",
+      "title": "Resiliencia",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 8,
+          "label": "Clase 3 · p. 8"
+        },
+        {
+          "id": "b8",
+          "page": 8,
+          "label": "Chiavenato · p. 240"
+        },
+        {
+          "id": "case",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "sinergia",
+      "title": "Sinergia",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 3,
+          "label": "Clase 3 · p. 3"
+        },
+        {
+          "id": "b8",
+          "page": 16,
+          "label": "Chiavenato · p. 248"
+        },
+        {
+          "id": "case",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "tavistock",
+      "title": "Modelo sociotécnico de Tavistock",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 12,
+          "label": "Clase 3 · p. 12"
+        },
+        {
+          "id": "b8",
+          "page": 12,
+          "label": "Chiavenato · p. 244"
+        },
+        {
+          "id": "b8",
+          "page": 13,
+          "label": "Chiavenato · p. 245"
+        },
+        {
+          "id": "case",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "katzkahn",
+      "title": "Modelo de Katz y Kahn",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 10,
+          "label": "Clase 3 · p. 10"
+        },
+        {
+          "id": "b8",
+          "page": 9,
+          "label": "Chiavenato · p. 241"
+        },
+        {
+          "id": "b8",
+          "page": 10,
+          "label": "Chiavenato · p. 242"
+        },
+        {
+          "id": "b8",
+          "page": 12,
+          "label": "Chiavenato · p. 244"
+        }
+      ]
+    },
+    {
+      "id": "equifinalidad",
+      "title": "Equifinalidad",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 10,
+          "label": "Clase 3 · p. 10"
+        },
+        {
+          "id": "b8",
+          "page": 10,
+          "label": "Chiavenato · p. 242"
+        }
+      ]
+    },
+    {
+      "id": "schein",
+      "title": "Modelo de Schein",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 9,
+          "label": "Clase 3 · p. 9"
+        },
+        {
+          "id": "b8",
+          "page": 9,
+          "label": "Chiavenato · p. 241"
+        }
+      ]
+    },
+    {
+      "id": "probabilistico",
+      "title": "Comportamiento probabilístico",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 8,
+          "label": "Clase 3 · p. 8"
+        },
+        {
+          "id": "b8",
+          "page": 6,
+          "label": "Chiavenato · p. 238"
+        },
+        {
+          "id": "b8",
+          "page": 7,
+          "label": "Chiavenato · p. 239"
+        },
+        {
+          "id": "case",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "oportunidad",
+      "title": "Idea y oportunidad",
+      "refs": [
+        {
+          "id": "c4",
+          "page": 3
+        },
+        {
+          "id": "c4",
+          "page": 5
+        },
+        {
+          "id": "a1",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "ecologica",
+      "title": "Ecológica Verde",
+      "refs": [
+        {
+          "id": "case",
+          "page": 1
+        },
+        {
+          "id": "case",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "id": "electrosur",
+      "title": "ElectroSur",
+      "refs": [
+        {
+          "id": "case",
+          "page": 2
+        },
+        {
+          "id": "case",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "andina",
+      "title": "Andina Outdoor",
+      "refs": [
+        {
+          "id": "a1",
+          "page": 1
+        },
+        {
+          "id": "a2",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "e1",
+      "title": "1. ¿Dónde cumple Laura las principales funciones administrativas?",
+      "refs": [
+        {
+          "id": "case",
+          "page": 1
+        },
+        {
+          "id": "b1",
+          "page": 8,
+          "label": "Chiavenato · p. 8"
+        }
+      ]
+    },
+    {
+      "id": "e2",
+      "title": "2. ¿Qué habilidades aplica Laura?",
+      "refs": [
+        {
+          "id": "case",
+          "page": 1
+        },
+        {
+          "id": "b1",
+          "page": 2,
+          "label": "Chiavenato · p. 2"
+        },
+        {
+          "id": "b1",
+          "page": 3,
+          "label": "Chiavenato · p. 3"
+        }
+      ]
+    },
+    {
+      "id": "e3",
+      "title": "3. ¿Qué competencias gerenciales demuestra?",
+      "refs": [
+        {
+          "id": "case",
+          "page": 1
+        },
+        {
+          "id": "b1",
+          "page": 3,
+          "label": "Chiavenato · p. 3"
+        },
+        {
+          "id": "b1",
+          "page": 4,
+          "label": "Chiavenato · p. 4"
+        },
+        {
+          "id": "b1",
+          "page": 6,
+          "label": "Chiavenato · p. 6"
+        }
+      ]
+    },
+    {
+      "id": "e4",
+      "title": "4. ¿Cómo actúa como agente de cambio y qué impacto tiene?",
+      "refs": [
+        {
+          "id": "case",
+          "page": 1
+        },
+        {
+          "id": "case",
+          "page": 2
+        },
+        {
+          "id": "b1",
+          "page": 13,
+          "label": "Chiavenato · p. 13"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "5. Identifica los cinco parámetros del sistema abierto.",
+      "refs": [
+        {
+          "id": "case",
+          "page": 3
+        },
+        {
+          "id": "c3",
+          "page": 5,
+          "label": "Clase 3 · p. 5"
+        },
+        {
+          "id": "b8",
+          "page": 5,
+          "label": "Chiavenato · p. 237"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "6. Explica negentropía y homeostasis dinámica con Katz y Kahn.",
+      "refs": [
+        {
+          "id": "case",
+          "page": 3
+        },
+        {
+          "id": "c3",
+          "page": 10,
+          "label": "Clase 3 · p. 10"
+        },
+        {
+          "id": "b8",
+          "page": 9,
+          "label": "Chiavenato · p. 241"
+        },
+        {
+          "id": "b8",
+          "page": 10,
+          "label": "Chiavenato · p. 242"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "7. Aplica el modelo sociotécnico de Tavistock.",
+      "refs": [
+        {
+          "id": "case",
+          "page": 3
+        },
+        {
+          "id": "c3",
+          "page": 12,
+          "label": "Clase 3 · p. 12"
+        },
+        {
+          "id": "b8",
+          "page": 12,
+          "label": "Chiavenato · p. 244"
+        },
+        {
+          "id": "b8",
+          "page": 13,
+          "label": "Chiavenato · p. 245"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "8. Explica comportamiento probabilístico, morfogénesis, resiliencia y sinergia.",
+      "refs": [
+        {
+          "id": "case",
+          "page": 3
+        },
+        {
+          "id": "c3",
+          "page": 8,
+          "label": "Clase 3 · p. 8"
+        },
+        {
+          "id": "c3",
+          "page": 3,
+          "label": "Clase 3 · p. 3"
+        },
+        {
+          "id": "b8",
+          "page": 8,
+          "label": "Chiavenato · p. 240"
+        },
+        {
+          "id": "b8",
+          "page": 16,
+          "label": "Chiavenato · p. 248"
+        }
+      ]
+    },
+    {
+      "id": "a-func",
+      "title": "A1. ¿Qué funciones está descuidando Camila?",
+      "refs": [
+        {
+          "id": "a1",
+          "page": 1
+        },
+        {
+          "id": "a2",
+          "page": 1
+        },
+        {
+          "id": "b1",
+          "page": 8,
+          "label": "Chiavenato · p. 8"
+        }
+      ]
+    },
+    {
+      "id": "a-katz",
+      "title": "A2. ¿Qué habilidad domina Marco y cuál necesita?",
+      "refs": [
+        {
+          "id": "a1",
+          "page": 1
+        },
+        {
+          "id": "b1",
+          "page": 2,
+          "label": "Chiavenato · p. 2"
+        },
+        {
+          "id": "b1",
+          "page": 3,
+          "label": "Chiavenato · p. 3"
+        }
+      ]
+    },
+    {
+      "id": "a-eficacia",
+      "title": "A3. ¿La carpa que nadie compra es un problema de eficiencia o eficacia?",
+      "refs": [
+        {
+          "id": "a1",
+          "page": 1
+        },
+        {
+          "id": "a2",
+          "page": 1
+        },
+        {
+          "id": "b1",
+          "page": 17,
+          "label": "Chiavenato · p. 17"
+        }
+      ]
+    },
+    {
+      "id": "a-sistema",
+      "title": "B1. Representa a Andina como sistema abierto.",
+      "refs": [
+        {
+          "id": "a1",
+          "page": 1
+        },
+        {
+          "id": "c3",
+          "page": 5,
+          "label": "Clase 3 · p. 5"
+        },
+        {
+          "id": "b8",
+          "page": 5,
+          "label": "Chiavenato · p. 237"
+        }
+      ]
+    },
+    {
+      "id": "a-sinergia",
+      "title": "B2. ¿Qué concepto falta entre marketing y producción?",
+      "refs": [
+        {
+          "id": "a1",
+          "page": 1
+        },
+        {
+          "id": "a2",
+          "page": 1
+        },
+        {
+          "id": "c3",
+          "page": 3,
+          "label": "Clase 3 · p. 3"
+        },
+        {
+          "id": "b8",
+          "page": 16,
+          "label": "Chiavenato · p. 248"
+        }
+      ]
+    },
+    {
+      "id": "a-entropia",
+      "title": "B3. ¿Qué ocurre si ignora las señales del ambiente?",
+      "refs": [
+        {
+          "id": "a1",
+          "page": 1
+        },
+        {
+          "id": "a2",
+          "page": 1
+        },
+        {
+          "id": "b8",
+          "page": 9,
+          "label": "Chiavenato · p. 241"
+        },
+        {
+          "id": "b8",
+          "page": 10,
+          "label": "Chiavenato · p. 242"
+        }
+      ]
+    },
+    {
+      "id": "a-propuesta",
+      "title": "C. Propón tres acciones y respáldalas con conceptos.",
+      "refs": [
+        {
+          "id": "a1",
+          "page": 1
+        },
+        {
+          "id": "a2",
+          "page": 1
+        },
+        {
+          "id": "b1",
+          "page": 2,
+          "label": "Chiavenato · p. 2"
+        },
+        {
+          "id": "b1",
+          "page": 8,
+          "label": "Chiavenato · p. 8"
+        },
+        {
+          "id": "c3",
+          "page": 3,
+          "label": "Clase 3 · p. 3"
+        }
+      ]
+    },
+    {
+      "id": "a-cierre",
+      "title": "Cierre. Elige una acción para una exposición de dos minutos.",
+      "refs": [
+        {
+          "id": "a1",
+          "page": 1
+        },
+        {
+          "id": "a2",
+          "page": 1
+        },
+        {
+          "id": "b1",
+          "page": 8,
+          "label": "Chiavenato · p. 8"
+        }
+      ]
+    },
+    {
+      "id": "q0",
+      "title": "Camila aprueba cada decisión y retrasa el trabajo. ¿Qué función es prioritaria?",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 8,
+          "label": "Chiavenato · p. 8"
+        },
+        {
+          "id": "case",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "q1",
+      "title": "Marco sabe confeccionar pero tiene conflictos con su equipo. ¿Qué habilidad necesita?",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 2,
+          "label": "Chiavenato · p. 2"
+        },
+        {
+          "id": "b1",
+          "page": 3,
+          "label": "Chiavenato · p. 3"
+        },
+        {
+          "id": "a1",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "title": "Andina fabrica rápido una carpa que casi nadie compra. ¿Qué falla principalmente?",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 17,
+          "label": "Chiavenato · p. 17"
+        },
+        {
+          "id": "a1",
+          "page": 1
+        },
+        {
+          "id": "a2",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "title": "Laura revisa avances semanalmente y ajusta estrategias. ¿Qué función muestra?",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 8,
+          "label": "Chiavenato · p. 8"
+        },
+        {
+          "id": "case",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "title": "Comprender cómo un cambio afecta a toda la empresa exige habilidad…",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 2,
+          "label": "Chiavenato · p. 2"
+        },
+        {
+          "id": "b1",
+          "page": 3,
+          "label": "Chiavenato · p. 3"
+        },
+        {
+          "id": "case",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "title": "¿Qué lista desarrollan el texto y la figura I.2 de la edición recuperada?",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 3,
+          "label": "Chiavenato · p. 3"
+        },
+        {
+          "id": "b1",
+          "page": 4,
+          "label": "Chiavenato · p. 4"
+        },
+        {
+          "id": "b1",
+          "page": 6,
+          "label": "Chiavenato · p. 6"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "title": "Monitoreo, diseminación y vocero son papeles…",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 6,
+          "label": "Chiavenato · p. 6"
+        },
+        {
+          "id": "ay",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "title": "¿Qué conjunto corresponde a las seis variables de la TGA?",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 11,
+          "label": "Chiavenato · p. 11"
+        },
+        {
+          "id": "b1",
+          "page": 12,
+          "label": "Chiavenato · p. 12"
+        },
+        {
+          "id": "ay",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "title": "¿Cuál conducta evidencia a Laura como agente de cambio?",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 13,
+          "label": "Chiavenato · p. 13"
+        },
+        {
+          "id": "case",
+          "page": 1
+        },
+        {
+          "id": "case",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "title": "Aplicar metódicamente principios a una situación corresponde a administración como…",
+      "refs": [
+        {
+          "id": "b1",
+          "page": 9,
+          "label": "Chiavenato · p. 9"
+        },
+        {
+          "id": "b1",
+          "page": 10,
+          "label": "Chiavenato · p. 10"
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "title": "Las materias primas y el capital de ElectroSur son…",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 5,
+          "label": "Clase 3 · p. 5"
+        },
+        {
+          "id": "c3",
+          "page": 6,
+          "label": "Clase 3 · p. 6"
+        },
+        {
+          "id": "b8",
+          "page": 5,
+          "label": "Chiavenato · p. 237"
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "title": "Las encuestas y reportes de devoluciones corresponden a…",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 6,
+          "label": "Clase 3 · p. 6"
+        },
+        {
+          "id": "b8",
+          "page": 5,
+          "label": "Chiavenato · p. 237"
+        },
+        {
+          "id": "case",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "title": "ElectroSur cambia y sigue operando sin perder identidad. Esto evidencia…",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 7,
+          "label": "Clase 3 · p. 7"
+        },
+        {
+          "id": "c3",
+          "page": 10,
+          "label": "Clase 3 · p. 10"
+        },
+        {
+          "id": "b8",
+          "page": 9,
+          "label": "Chiavenato · p. 241"
+        },
+        {
+          "id": "b8",
+          "page": 10,
+          "label": "Chiavenato · p. 242"
+        },
+        {
+          "id": "case",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "title": "Eliminar una gerencia y crear equipos transversales muestra…",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 8,
+          "label": "Clase 3 · p. 8"
+        },
+        {
+          "id": "b8",
+          "page": 8,
+          "label": "Chiavenato · p. 240"
+        },
+        {
+          "id": "case",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "title": "¿Qué intervención respeta la interdependencia sociotécnica?",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 12,
+          "label": "Clase 3 · p. 12"
+        },
+        {
+          "id": "b8",
+          "page": 12,
+          "label": "Chiavenato · p. 244"
+        },
+        {
+          "id": "b8",
+          "page": 13,
+          "label": "Chiavenato · p. 245"
+        },
+        {
+          "id": "case",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "title": "El desempeño coordinado supera el de cada área aislada. ¿Qué concepto es?",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 3,
+          "label": "Clase 3 · p. 3"
+        },
+        {
+          "id": "b8",
+          "page": 16,
+          "label": "Chiavenato · p. 248"
+        },
+        {
+          "id": "case",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "title": "Captar recursos e información para evitar el agotamiento expresa…",
+      "refs": [
+        {
+          "id": "b8",
+          "page": 5,
+          "label": "Chiavenato · p. 237"
+        },
+        {
+          "id": "b8",
+          "page": 9,
+          "label": "Chiavenato · p. 241"
+        },
+        {
+          "id": "b8",
+          "page": 10,
+          "label": "Chiavenato · p. 242"
+        },
+        {
+          "id": "c3",
+          "page": 10,
+          "label": "Clase 3 · p. 10"
+        },
+        {
+          "id": "a2",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "title": "Llegar al mismo resultado desde condiciones y caminos distintos se llama…",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 10,
+          "label": "Clase 3 · p. 10"
+        },
+        {
+          "id": "b8",
+          "page": 10,
+          "label": "Chiavenato · p. 242"
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "title": "¿Por qué ElectroSur no puede predecir con certeza todas las respuestas?",
+      "refs": [
+        {
+          "id": "c3",
+          "page": 8,
+          "label": "Clase 3 · p. 8"
+        },
+        {
+          "id": "b8",
+          "page": 6,
+          "label": "Chiavenato · p. 238"
+        },
+        {
+          "id": "b8",
+          "page": 7,
+          "label": "Chiavenato · p. 239"
+        },
+        {
+          "id": "case",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "title": "Según la Clase 4, una idea se convierte en oportunidad cuando…",
+      "refs": [
+        {
+          "id": "c4",
+          "page": 3
+        },
+        {
+          "id": "c4",
+          "page": 5
+        },
+        {
+          "id": "a1",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "taylor",
+      "title": "Taylor y la organización racional del trabajo",
+      "refs": [
+        {
+          "id": "c2",
+          "page": 5
+        },
+        {
+          "id": "c2",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "gilbreth",
+      "title": "Gilbreth, Ford y apreciación crítica",
+      "refs": [
+        {
+          "id": "c2",
+          "page": 7
+        },
+        {
+          "id": "c2",
+          "page": 11
+        },
+        {
+          "id": "c2",
+          "page": 13
+        }
+      ]
+    }
+  ]
+}
